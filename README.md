@@ -1,6 +1,3 @@
-# if_else.py
-# Practice program for if-else conditions
-
 age = int(input("Enter your age: "))
 
 if age >= 18:
